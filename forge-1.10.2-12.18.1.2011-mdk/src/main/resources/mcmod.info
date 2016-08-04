@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Carpenter's Hoppers",
+  "name": "Carpenter's Hoppers",
+  "description": "Carpenter's Hoppers for Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hanketrute"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
